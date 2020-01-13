@@ -6,7 +6,7 @@ Mirror of isort for pre-commit with conda as a language.
 * For pre-commit: see https://github.com/pre-commit/pre-commit
 * For isort: see https://github.com/timothycrosley/isort
 
-### Using black with pre-commit and conda:
+### Using isort with pre-commit and conda:
 
 Add this to your `.pre-commit-config.yaml`
 
