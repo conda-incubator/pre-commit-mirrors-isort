@@ -1,0 +1,5 @@
+- id: isort-conda
+  name: isort-conda
+  entry: isort
+  language: conda
+  'types': [python]
