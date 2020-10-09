@@ -1,4 +1,4 @@
 channels:
   - conda-forge
 dependencies:
-  - isort=5.1.4
+  - isort=5.2.2
