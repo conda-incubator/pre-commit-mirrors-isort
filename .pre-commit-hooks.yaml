@@ -2,5 +2,4 @@
   name: isort-conda
   entry: isort
   language: conda
-  args: ['--profile=black']
   'types': [python]
