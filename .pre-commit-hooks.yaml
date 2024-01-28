@@ -1,5 +1,6 @@
 - id: isort-conda
   name: isort-conda
+  description: 'This hook runs isort.'
   entry: isort
   language: conda
-  'types': [python]
+  types: [python]
